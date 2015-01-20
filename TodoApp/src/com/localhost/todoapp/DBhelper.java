@@ -15,7 +15,7 @@ public class DBhelper extends SQLiteOpenHelper {
 	public static final String TODO_DESC = "description";
 
 	// Database Information
-	static final String DB_NAME = "JAVATECHIG_TODOS.DB";
+	static final String DB_NAME = "TODOS.DB";
 
 	// database version
 	static final int DB_VERSION = 1;
